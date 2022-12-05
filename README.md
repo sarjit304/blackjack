@@ -1,3 +1,4 @@
 # Blackjack
 
-This is a project I did that x,y,z. 
+This is a console application which is essentially a blackjack game.
+
